@@ -1,1 +1,1 @@
-exit --> [[Hall of Valor]]
+exit --> [[Hall of Valor (interior)]]
