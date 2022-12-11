@@ -1,4 +1,4 @@
 # Scavenger-Route
 
-##General Information
+## General Information
 - Seed is 111122
