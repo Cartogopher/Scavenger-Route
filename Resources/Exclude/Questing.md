@@ -1,3 +1,0 @@
-- #skipdiscovery #mainquest #diplomaticimmunity activates if teleported to [[Thalmor Embassy]] behind bartender
-- #conflict #mainquest #wayofthevoice greybeards are stuck
-	- Fix: [[Greybeard Fix.jpg]]
