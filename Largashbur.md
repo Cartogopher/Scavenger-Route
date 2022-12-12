@@ -1,0 +1,1 @@
+trapdoor behind main building --> Septimus signus outpost

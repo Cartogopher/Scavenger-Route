@@ -1,4 +1,5 @@
 Blind Cliff Cave --> [[Blind Cliff Cave]]
-[This House]([[dragonsreachHouse.png]])--> [[Esbern's Cell]]
 
+#solitude Lighthouse--> [[Unnamed Dungeon]]
 
+[This House]([[dragonsreachHouse.png]]) in #dragonsreach --> [[Esbern's Cell]]
