@@ -26,11 +26,5 @@ example:
 
 cave exit --> \[[House Grey Mane]] bedroom door 
 
-If the New Location is out of bounds, or in a dead end, I do
-
-general description of door --> New Location #oob
-
-Gloomreach i don't remember-->Shadowgreen Cavern #oob
-
 
 \*(If you want Obsidian to view .txts you must use the [txt as md Obsidian Plugin](https://github.com/deathau/txt-as-md-obsidian) plugin. I chose not to enfore .md for adoptability.)
